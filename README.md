@@ -5,6 +5,7 @@
 **Data Sources**: Based on what you have learned you can extract data from pretty much anywhere, but for inspiration you can look at the following links:
 - [This big list of datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Data.gov](http://data.gov)
+- The internet
 
 **Grading criteria**
 - Code: we will grade the code according to the rubric
@@ -16,4 +17,4 @@
 - Data munging and storage: do you process the data in an clear, efficient, and organized way?  Do you join multiple data sources appropriately?  Do you store your processed data in an efficient way, using databases or well thought out data structures?
 - Organization: Is your github repo organized?  Are your notebooks clear, with a natural flow, and easy to follow presentation?  Is your writing clear and edited?
 
-We will grade each of these according to a scale, with the highest grades going to only the best examples of these categories.  Then we will drop the lowest 2 of these scores, so that we will promote excellence without necessarily requiring that the you hit all of these bases.
+We will grade each of these according to a scale, with the highest grades going to only the best examples of these categories.  Then we will drop the lowest 2 of these scores, so that we will promote excellence without necessarily requiring that the you hit all of these bases.  We will also add grades to smaller groups, and penalize larger groups.  You should roughly have material proportional to the number of people in your group.
