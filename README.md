@@ -18,3 +18,5 @@
 - Organization: Is your github repo organized?  Are your notebooks clear, with a natural flow, and easy to follow presentation?  Is your writing clear and edited?
 
 We will grade each of these according to a scale, with the highest grades going to only the best examples of these categories.  Then we will drop the lowest 2 of these scores, so that we will promote excellence without necessarily requiring that the you hit all of these bases.  We will also add grades to smaller groups, and penalize larger groups.  You should roughly have material proportional to the number of people in your group.
+
+Feel free to remove this README or cache it as another file, then add you own README describing your project.  It should be clear what notebook the reader should be looking at.
